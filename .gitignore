@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+data/Homo_sapiens.GRCh38.dna_sm.chromosome.13.fa
+data/Homo_sapiens.GRCh38.dna.chromosome.11.fa
+data/Homo_sapiens.GRCh38.dna.chromosome.12.fa
+data/Homo_sapiens.GRCh38.dna.chromosome.16.fa
